@@ -16,7 +16,7 @@ public class Merhaba {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("seckin ");
+        System.out.println("seckin celik");
     }
     
 }
